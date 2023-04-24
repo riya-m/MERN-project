@@ -5,7 +5,7 @@ Follow these steps to run the portal on your local machine.
 
 Prerequisites: node
 
-Step1: Clone the repository into your PC using this link "https://github.com/riya-m/MERN-project". Use the command "git clone <link>"
+Step1: Clone the repository into your PC using this link "https://github.com/riya-m/MERN-project". Use the command "git clone {link}"
 
 Step2: Move into the folder "mern-project" and run the command "npm install" in the command window in order to download the relevant packages. 
 
